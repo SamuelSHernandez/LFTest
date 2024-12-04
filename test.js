@@ -29,4 +29,4 @@ if (mockBudgetNumber !== 5 && mockBaseCountry.indexOf("926") >= 0 && mockBCDSala
 }
 
 // Mocked function call
-mockSetFieldValue("MockBCDSalaryPerMonthUSCurrencyCalc", mockValue);
+console.log(mockSetFieldValue("MockBCDSalaryPerMonthUSCurrencyCalc", mockValue));
